@@ -41,6 +41,6 @@ La documentación técnica completa del laboratorio se encuentra en la sección 
 
 
 ## Estructura del Repositorio
-
+- Link Video: https://1drv.ms/v/c/cdf0dd7461b8ab71/IQD_G5b2ihGRQIR300Tc5Me1AYoKNKntLbw1Quka8MpTebE?e=LKKKcj
 - /PacketTracer → Archivo de simulación (.pkt)
 - Wiki → Documentación técnica completa
